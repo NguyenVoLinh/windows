@@ -1,0 +1,21 @@
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\bin\Debug\NguyenVoLinh-2121110083.exe.config
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\bin\Debug\NguyenVoLinh-2121110083.exe
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\bin\Debug\NguyenVoLinh-2121110083.pdb
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh-2121110083.csprojResolveAssemblyReference.cache
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh_2121110083.Form1.resources
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh_2121110083.Properties.Resources.resources
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh-2121110083.csproj.GenerateResource.Cache
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh-2121110083.exe
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh-2121110083.pdb
+D:\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh_2121110083.Form2.resources
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh-2121110083.pdb
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\bin\Debug\NguyenVoLinh-2121110083.pdb
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh-2121110083.csprojResolveAssemblyReference.cache
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh_2121110083.Form1.resources
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh_2121110083.Form2.resources
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh_2121110083.Properties.Resources.resources
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh-2121110083.csproj.GenerateResource.Cache
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\bin\Debug\NguyenVoLinh-2121110083.dll.config
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\bin\Debug\NguyenVoLinh-2121110083.dll
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh_2121110083.Form4.resources
+D:\lập trình windows\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\NguyenVoLinh-2121110083\obj\Debug\NguyenVoLinh-2121110083.dll
